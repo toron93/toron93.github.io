@@ -1,11 +1,11 @@
 # Site settings
-author: Toron Seigler
-title: 
+author: Toron Seiger
+title: The reason I've decided to study Software Engineering
 header-img: img/home-bg.png
 email: toronseigler9@gmail.com
-copyright_name: Toron Seigler
+copyright_name: Toron Seiger
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My first blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  toron93
